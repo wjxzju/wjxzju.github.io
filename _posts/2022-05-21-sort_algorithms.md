@@ -1,6 +1,7 @@
 ---
 title: 回忆排序算法 
 tags: 算法
+key: sort_algorithms
 ---
 
 # 导语
